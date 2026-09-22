@@ -23,10 +23,10 @@ A large amount of news is shared through:
 The information in these images cannot be directly searched or analyzed as normal text.
 
 This project solves that problem by converting:
-
+Fake news on social media:
+<img width="1220" height="1681" alt="1000029303" src="https://github.com/user-attachments/assets/06baae1c-e043-4dc4-9e9c-2400675f4ae1" />
 ```text
 📸 NEWS PHOTO
-<img width="1220" height="1681" alt="1000029303" src="https://github.com/user-attachments/assets/06baae1c-e043-4dc4-9e9c-2400675f4ae1" />
 
       ↓
    OCR TEXT
