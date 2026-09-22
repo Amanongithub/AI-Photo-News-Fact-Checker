@@ -1,5 +1,5 @@
 
-# 📰 AI Photo News Fact Checker
+# 📰 Photo News/Text Fact Checker with AI ( LangChain )
 
 An AI-powered application that **checks news from photos and screenshots**.
 
